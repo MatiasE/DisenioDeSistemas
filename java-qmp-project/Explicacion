@@ -3,4 +3,5 @@
 La explicacion del TP es que creo una clase Prenda donde hago todas las validaciones en su constructor, y genero unos enums para cada variable de la clase 
 Prenda, con su respectiva clase Tipo..., mi duda es si el enum hace falta que sea creado adentro de una clase o afuera directamente, e hice unos tests para 
 probar las funcionalidades que fui agregando. El motivo del enum en vez de otras soluciones, es que es la unica forma que se me ocurrio de acuerdo a lo que 
-vimos, todavia no puedo ver otras soluciones y compararlas con cualidades de diseño.
+vimos, todavia no puedo ver otras soluciones y compararlas con cualidades de diseño. Agregue el diagrama de clases al Readme.md, y si el diagrama esta bien 
+hecho, no sabia como diagramar un enum en UML. Saludos, Matias.
