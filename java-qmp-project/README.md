@@ -1,3 +1,6 @@
+Diagrama de Clases:
+![imagen](https://user-images.githubusercontent.com/7109367/232942423-360f3ed0-9fcd-4e4e-95eb-7355515901ad.png)
+
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
@@ -77,3 +80,6 @@ mvn clean verify && git tag entrega-final && git push origin HEAD --tags
 3. Configurarlo activando los Checks de Google y la versión de Checkstyle `== 8.35`:
 
 ![image](https://user-images.githubusercontent.com/39303639/228126437-3d2f0137-3180-4221-a789-a057d920ae4e.png)
+
+![Uploading imagen.png…]()
+
