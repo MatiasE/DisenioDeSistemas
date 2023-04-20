@@ -1,3 +1,8 @@
+Diagrama de Clases:
+
+![imagen](https://user-images.githubusercontent.com/7109367/233405886-2b0551c1-576b-4458-8e31-e69e14b252f3.png)
+
+
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
