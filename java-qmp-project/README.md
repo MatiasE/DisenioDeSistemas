@@ -1,3 +1,8 @@
+Diagrama de Clases:
+![imagen](https://user-images.githubusercontent.com/7109367/234997700-70da0c27-6dbe-4d30-a687-de6cf81c84d7.png)
+
+Explicacion del TP: Creo una clase borrador donde voy haciendo toda la construccion de la prenda en partes, con sus metodos correspondientes, y el TipoTrama lo hago un enum como venia haciendo el resto de los requerimientos de la primera iteracion. Le adjunto el diagrama de clases arriba.
+
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
